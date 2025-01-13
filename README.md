@@ -1,6 +1,3 @@
-### `README.md`
-
-```markdown
 # Brute Force Password Cracker in PHP
 
 This is a simple brute-force password cracker implemented in PHP. It generates and tests all possible password combinations based on a predefined character set, attempting to crack a given password. Performance metrics, including the number of attempts and the time taken to crack the password, are tracked and displayed.
