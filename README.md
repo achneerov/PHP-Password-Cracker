@@ -52,10 +52,6 @@ Time taken: 0.3047 seconds
 - The brute-force approach can be extremely slow, especially for long passwords or large character sets.
 - This script is intended for educational purposes and should not be used for illegal activities.
 
-## License
-
-This project is open-source and licensed under the MIT License.
-
 ## Acknowledgments
 
 - This script was developed as an educational example to demonstrate brute-force password cracking.
